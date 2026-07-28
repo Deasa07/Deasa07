@@ -1,4 +1,4 @@
-````markdown
+
 <!-- ======================= PROFILE PHOTO ======================= -->
 
 <p align="center">
@@ -276,7 +276,7 @@
 
 🎯 Continuously grow as a technology professional
 
----
+
 
 # 🤝 Let's Connect
 
@@ -296,7 +296,7 @@
 
 </p>
 
----
+
 
 <h3 align="center">
 
@@ -305,7 +305,6 @@
 </h3>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+ 
 </p>
-```
 
