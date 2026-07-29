@@ -4,14 +4,14 @@
   <img src="./profile.jpg" width="180" height="180" alt="Deasa Spoorthi John J"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Deasa Spoorthi John J</h1>
+<h1 align="center">heyyy 👋, I'm Deasa Spoorthi John J</h1>
 
 <h3 align="center">
   📊 Aspiring Data Analyst | 🔬 Aspiring Data Scientist | 🤖 AI & ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+📊;Building+Intelligent+Solutions+🤖;Exploring+Data+Science+🔬;Learning+Something+New+Every+Day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=2026+CSE-AIML+Graduate+🎓;Aspiring+Data+Analyst+📊;Aspiring+Data+Scientist+🔬;Exploring+Generative+AI+🤖;Looking+for+Opportunities+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -182,23 +182,13 @@
 
 # 📚 Currently Learning
 
-🐍 **Advanced Python**
+🤖 **Generative AI & Large Language Models (LLMs)**
 
-🗄️ **Advanced SQL**
+> Exploring how intelligent AI applications are built and how Large Language Models can be applied to real-world problems.
 
-📊 **Data Cleaning & Preprocessing**
+🔗 **LangChain & AI Application Development**
 
-🔍 **Exploratory Data Analysis**
-
-📈 **Data Visualization**
-
-📐 **Statistics for Data Science**
-
-🤖 **Machine Learning**
-
-🧠 **Deep Learning**
-
-🔬 **Data Science**
+> Learning to build AI-powered applications, workflows, and intelligent solutions using modern AI technologies.
 
 ---
 
