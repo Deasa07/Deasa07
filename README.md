@@ -1,4 +1,3 @@
-
 <!-- ======================= PROFILE PHOTO ======================= -->
 
 <p align="center">
@@ -11,16 +10,19 @@
   📊 Aspiring Data Analyst | 🔬 Aspiring Data Scientist | 🤖 AI & ML Enthusiast
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+📊;Building+Intelligent+Solutions+🤖;Exploring+Data+Science+🔬;Learning+Something+New+Every+Day+🚀" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/deasa076">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/deasa06">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -28,19 +30,21 @@
 
 # 👩‍💻 About Me
 
-🎓 I'm a **Computer Science & Engineering graduate specializing in Artificial Intelligence & Machine Learning**.
+🎓 I am a **2026 BE graduate in Computer Science & Engineering, specializing in Artificial Intelligence & Machine Learning (CSE-AIML)**.
 
-📊 I'm passionate about **Data Analytics, Data Science, Machine Learning, and Artificial Intelligence**.
+🚀 I am currently **looking for opportunities** where I can apply my technical knowledge, learn from real-world challenges, and grow as a technology professional.
+
+📊 I am passionate about **Data Analytics, Data Science, Machine Learning, and Artificial Intelligence**.
 
 🔍 I enjoy exploring data, discovering meaningful patterns, creating visualizations, and transforming raw data into actionable insights.
 
-🐍 I love working with **Python** and exploring data-driven technologies.
+🐍 I love working with **Python, SQL, and data-driven technologies** and continuously improving my analytical and problem-solving skills.
 
-🗄️ I am interested in **SQL, databases, data cleaning, and exploratory data analysis**.
+🤖 I am interested in building intelligent solutions using **Machine Learning, Deep Learning, and AI**.
 
-🤖 I am continuously learning and building projects in **Machine Learning, Deep Learning, and AI**.
+🌱 I believe in continuous learning and using technology not just to build solutions, but to create something meaningful and make a positive impact.
 
-🚀 My goal is to grow as a **Data Analyst and Data Scientist** and contribute to meaningful, data-driven solutions.
+💡 **Currently exploring opportunities in Data Analytics, Data Science, AI & ML, and related technology roles.**
 
 ---
 
@@ -218,90 +222,3 @@
 🧠 Deep Learning
       ↓
 🔬 Data Science
-````
-
----
-
-# 💡 What I Love Working On
-
-📊 Data Analysis & Visualization
-
-🔍 Exploratory Data Analysis
-
-🧹 Data Cleaning & Preprocessing
-
-🗄️ SQL & Database Management
-
-🤖 Machine Learning
-
-🧠 Artificial Intelligence
-
-👁️ Computer Vision
-
-📈 Data-Driven Decision Making
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🎯 My Goals
-
-🎯 Become a skilled **Data Analyst**
-
-🎯 Grow into a successful **Data Scientist**
-
-🎯 Build impactful real-world projects
-
-🎯 Improve my skills in **SQL, Python, Statistics, and Machine Learning**
-
-🎯 Learn and apply advanced Data Science techniques
-
-🎯 Continuously grow as a technology professional
-
-
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-
-
-<h3 align="center">
-
-✨ "Turning data into insights, insights into decisions, and ideas into intelligent solutions." ✨
-
-</h3>
-
-<p align="center">
- 
-</p>
-
